@@ -11,3 +11,6 @@ The source code about the course Algorithm Design and Analysis
 - Greedy
 	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Greedy/Prim%20%26%20Kruskal">Prim</a>
 	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Greedy/Prim%20%26%20Kruskal">Kruskal</a>
+- LRU
+	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/LRU/java">LinkedHashMap(java)</a>
+	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/LRU/C%2B%2B">unordered_map + list (C++)</a>
