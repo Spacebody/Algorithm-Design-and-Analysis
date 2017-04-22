@@ -9,8 +9,11 @@ The source code about the course Algorithm Design and Analysis
 	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Graph/Kahn%20%26%20DFS%20based%20sort">Kahn</a>
 	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Graph/Kahn%20%26%20DFS%20based%20sort">DFS based sort</a> 
 - Greedy
-	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Greedy/Prim%20%26%20Kruskal">Prim</a>
-	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Greedy/Prim%20%26%20Kruskal">Kruskal</a>
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Greedy/Prim%20%26%20Kruskal">Prim</a>
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Greedy/Prim%20%26%20Kruskal">Kruskal</a>
 - LRU
-	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/LRU/java">LinkedHashMap(java)</a>
-	- <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/LRU/C%2B%2B">unordered_map + list (C++)</a>
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/LRU/java">LinkedHashMap(java)</a>
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/LRU/C%2B%2B">unordered_map + list (C++)</a>
+- Huffman
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Huffman/Huffman1">Simple implementation</a>
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Huffman/Huffman2">Operating on file</a>
