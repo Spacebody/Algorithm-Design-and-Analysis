@@ -17,3 +17,6 @@ The source code about the course Algorithm Design and Analysis
 - Huffman
 	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Huffman/Huffman1">Simple implementation</a>
 	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Huffman/Huffman2">Operating on file</a>
+- Sort and Count
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Sort_and_Count">Merge sort</a>
+	+ <a href="https://github.com/Spacebody/Algorithm-Design-and-Analysis/tree/master/Sort_and_Count">Inversion counting</a>
